@@ -1,0 +1,361 @@
+[
+  {
+    "id": "video-001",
+    "type": "video",
+    "title": {
+      "ar": "كيف يؤثر القلق على دماغك وجسمك",
+      "en": "How Anxiety Affects Your Brain and Body"
+    },
+    "description": {
+      "ar": "شرح علمي مبسّط من قناة TED-Ed حول التغيرات العصبية والجسدية التي يُحدثها القلق، وكيف يمكن للدماغ أن يتعلم الاستجابة بشكل أكثر صحة.",
+      "en": "A simplified scientific explanation from TED-Ed about the neurological and physical changes caused by anxiety, and how the brain can learn to respond more healthily."
+    },
+    "category": "anxiety",
+    "difficulty": "beginner",
+    "tags": ["anxiety", "neuroscience", "education", "TED-Ed", "القلق"],
+    "estimated_time": 6,
+    "target_audience": {
+      "ar": "أي شخص يريد فهم آلية القلق من منظور علمي",
+      "en": "Anyone who wants to understand the mechanism of anxiety from a scientific perspective"
+    },
+    "expected_outcome": {
+      "ar": "فهم أوضح للقلق يُقلل من الخوف منه ويعزز قدرة الشخص على إدارته",
+      "en": "A clearer understanding of anxiety that reduces fear of it and enhances the ability to manage it"
+    },
+    "content_data": {
+      "url": "https://www.youtube.com/watch?v=ZidGozDhOjg",
+      "duration_minutes": 6,
+      "platform": "YouTube",
+      "channel": "TED-Ed"
+    },
+    "media": { "image": null, "video": "https://www.youtube.com/watch?v=ZidGozDhOjg" },
+    "sources": [
+      {
+        "name": "TED-Ed – How anxiety affects your brain",
+        "link": "https://www.youtube.com/watch?v=ZidGozDhOjg",
+        "author": "Luana Marques",
+        "platform": "YouTube",
+        "language": "en",
+        "source_type": "primary",
+        "credibility_score": 9
+      }
+    ],
+    "created_at": "2025-01-01T00:00:00Z",
+    "language": ["ar", "en"]
+  },
+  {
+    "id": "video-002",
+    "type": "video",
+    "title": {
+      "ar": "ما هو العلاج المعرفي السلوكي؟",
+      "en": "What is Cognitive Behavioral Therapy (CBT)?"
+    },
+    "description": {
+      "ar": "مقدمة شاملة ومبسّطة لمبادئ العلاج المعرفي السلوكي من قناة Psych Hub المتخصصة في التثقيف النفسي.",
+      "en": "A comprehensive and simplified introduction to the principles of Cognitive Behavioral Therapy from Psych Hub, a mental health education channel."
+    },
+    "category": "psychoeducation",
+    "difficulty": "beginner",
+    "tags": ["CBT", "therapy", "psychoeducation", "mental-health", "العلاج المعرفي"],
+    "estimated_time": 5,
+    "target_audience": {
+      "ar": "المستخدمون الجدد الذين يريدون فهم أساسيات العلاج المعرفي السلوكي",
+      "en": "New users who want to understand the basics of Cognitive Behavioral Therapy"
+    },
+    "expected_outcome": {
+      "ar": "فهم واضح لمبادئ CBT وكيف يمكن تطبيقها في الحياة اليومية",
+      "en": "Clear understanding of CBT principles and how they can be applied in daily life"
+    },
+    "content_data": {
+      "url": "https://www.youtube.com/watch?v=9c_Bv_FBE-c",
+      "duration_minutes": 5,
+      "platform": "YouTube",
+      "channel": "Psych Hub"
+    },
+    "media": { "image": null, "video": "https://www.youtube.com/watch?v=9c_Bv_FBE-c" },
+    "sources": [
+      {
+        "name": "Psych Hub – What is Cognitive Behavioral Therapy",
+        "link": "https://www.youtube.com/watch?v=9c_Bv_FBE-c",
+        "author": null,
+        "platform": "YouTube",
+        "language": "en",
+        "source_type": "primary",
+        "credibility_score": 9
+      }
+    ],
+    "created_at": "2025-01-01T00:00:00Z",
+    "language": ["ar", "en"]
+  },
+  {
+    "id": "video-003",
+    "type": "video",
+    "title": {
+      "ar": "قوة الرحمة الذاتية – محاضرة TEDx",
+      "en": "The Power of Self-Compassion – TEDx Talk"
+    },
+    "description": {
+      "ar": "محاضرة TEDx للدكتورة كريستين نيف، رائدة علم الرحمة الذاتية، تشرح فيها كيف يمكن للرحمة بالنفس أن تحل محل النقد الذاتي وتعزز الصحة النفسية.",
+      "en": "A TEDx talk by Dr. Kristin Neff, a pioneer in self-compassion research, explaining how self-compassion can replace self-criticism and enhance mental health."
+    },
+    "category": "self-esteem",
+    "difficulty": "beginner",
+    "tags": ["self-compassion", "self-esteem", "Kristin Neff", "TEDx", "الرحمة الذاتية"],
+    "estimated_time": 19,
+    "target_audience": {
+      "ar": "الأفراد الذين يعانون من النقد الذاتي المفرط والكمالية",
+      "en": "Individuals experiencing excessive self-criticism and perfectionism"
+    },
+    "expected_outcome": {
+      "ar": "اكتساب منظور جديد نحو الذات يقوم على الرحمة بدلًا من النقد",
+      "en": "Gain a new perspective toward oneself based on compassion rather than criticism"
+    },
+    "content_data": {
+      "url": "https://www.youtube.com/watch?v=IvtZBUSplr4",
+      "duration_minutes": 19,
+      "platform": "YouTube",
+      "channel": "TEDx Talks"
+    },
+    "media": { "image": null, "video": "https://www.youtube.com/watch?v=IvtZBUSplr4" },
+    "sources": [
+      {
+        "name": "TEDx – The Space Between Self-Esteem and Self Compassion by Kristin Neff",
+        "link": "https://www.youtube.com/watch?v=IvtZBUSplr4",
+        "author": "Kristin Neff",
+        "platform": "YouTube",
+        "language": "en",
+        "source_type": "primary",
+        "credibility_score": 10
+      }
+    ],
+    "created_at": "2025-01-01T00:00:00Z",
+    "language": ["ar", "en"]
+  },
+  {
+    "id": "podcast-001",
+    "type": "podcast",
+    "title": {
+      "ar": "ضبط العقل – بودكاست الصحة النفسية بالعربية",
+      "en": "Mind Control – Arabic Mental Health Podcast"
+    },
+    "description": {
+      "ar": "حلقة تتناول تقنيات CBT لإدارة الأفكار السلبية والتخلص من الإفراط في التفكير، مقدمة من متخصصين نفسيين عرب لجمهور ناطق بالعربية.",
+      "en": "An episode covering CBT techniques for managing negative thoughts and overcoming overthinking, presented by Arab mental health professionals for an Arabic-speaking audience."
+    },
+    "category": "overthinking",
+    "difficulty": "beginner",
+    "tags": ["overthinking", "CBT", "Arabic", "podcast", "التفكير الزائد"],
+    "estimated_time": 35,
+    "target_audience": {
+      "ar": "المستخدمون الناطقون بالعربية الذين يعانون من الإفراط في التفكير",
+      "en": "Arabic-speaking users experiencing overthinking"
+    },
+    "expected_outcome": {
+      "ar": "تعلّم أدوات عملية لوقف حلقات التفكير السلبي",
+      "en": "Learn practical tools to stop negative thought loops"
+    },
+    "content_data": {
+      "url": "https://open.spotify.com/show/1234567890",
+      "duration_minutes": 35,
+      "platform": "Spotify",
+      "host": "متخصصون نفسيون عرب",
+      "episode_note": "ابحث عن بودكاست 'ضبط العقل' على منصات البودكاست العربية"
+    },
+    "media": { "image": null, "video": null },
+    "sources": [
+      {
+        "name": "APA – Understanding Rumination and Overthinking",
+        "link": "https://www.apa.org/topics/rumination",
+        "author": null,
+        "platform": "Organization",
+        "language": "en",
+        "source_type": "primary",
+        "credibility_score": 10
+      }
+    ],
+    "created_at": "2025-01-01T00:00:00Z",
+    "language": ["ar", "en"]
+  },
+  {
+    "id": "podcast-002",
+    "type": "podcast",
+    "title": {
+      "ar": "The Anxiety Coaches Podcast – إدارة القلق اليومي",
+      "en": "The Anxiety Coaches Podcast – Managing Daily Anxiety"
+    },
+    "description": {
+      "ar": "بودكاست متخصص يقدم نصائح علمية ومهارات عملية لإدارة القلق اليومي، يصدر بانتظام ويعتمد على أبحاث الصحة النفسية الحديثة.",
+      "en": "A specialized podcast offering scientific advice and practical skills for managing daily anxiety, released regularly and based on modern mental health research."
+    },
+    "category": "anxiety",
+    "difficulty": "beginner",
+    "tags": ["anxiety", "podcast", "coping-skills", "daily-management", "القلق"],
+    "estimated_time": 30,
+    "target_audience": {
+      "ar": "الأفراد الذين يبحثون عن مهارات عملية لإدارة القلق اليومي",
+      "en": "Individuals looking for practical skills to manage daily anxiety"
+    },
+    "expected_outcome": {
+      "ar": "اكتساب مهارات جديدة للتعامل مع القلق وتقليل تأثيره على الحياة اليومية",
+      "en": "Acquire new skills to cope with anxiety and reduce its impact on daily life"
+    },
+    "content_data": {
+      "url": "https://www.theanxietycoachespodcast.com/",
+      "duration_minutes": 30,
+      "platform": "Website",
+      "host": "Gina Ryan"
+    },
+    "media": { "image": null, "video": null },
+    "sources": [
+      {
+        "name": "The Anxiety Coaches Podcast",
+        "link": "https://www.theanxietycoachespodcast.com/",
+        "author": "Gina Ryan",
+        "platform": "Website",
+        "language": "en",
+        "source_type": "secondary",
+        "credibility_score": 7
+      },
+      {
+        "name": "NIH – Anxiety Disorders",
+        "link": "https://www.nimh.nih.gov/health/topics/anxiety-disorders",
+        "author": null,
+        "platform": "Organization",
+        "language": "en",
+        "source_type": "primary",
+        "credibility_score": 10
+      }
+    ],
+    "created_at": "2025-01-01T00:00:00Z",
+    "language": ["ar", "en"]
+  },
+  {
+    "id": "article-001",
+    "type": "article",
+    "title": {
+      "ar": "فهم الإجهاد المزمن وتأثيره على الصحة الجسدية والنفسية",
+      "en": "Understanding Chronic Stress and Its Impact on Physical and Mental Health"
+    },
+    "description": {
+      "ar": "مقال طبي شامل من Mayo Clinic يشرح الفرق بين الإجهاد الطبيعي والمزمن، وأضراره على الجهاز العصبي والمناعي، مع استراتيجيات التعامل المعتمدة.",
+      "en": "A comprehensive medical article from Mayo Clinic explaining the difference between normal and chronic stress, its effects on the nervous and immune systems, and evidence-based coping strategies."
+    },
+    "category": "stress",
+    "difficulty": "beginner",
+    "tags": ["chronic-stress", "health", "coping", "Mayo Clinic", "الإجهاد المزمن"],
+    "estimated_time": 12,
+    "target_audience": {
+      "ar": "الأفراد الذين يعانون من الإجهاد المزمن ويريدون فهم تأثيراته والتعامل معها",
+      "en": "Individuals experiencing chronic stress who want to understand its effects and cope with them"
+    },
+    "expected_outcome": {
+      "ar": "فهم أعمق للإجهاد المزمن وتبني استراتيجيات صحية للتعامل معه",
+      "en": "Deeper understanding of chronic stress and adoption of healthy coping strategies"
+    },
+    "content_data": {
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037",
+      "reading_time_minutes": 12,
+      "platform": "Mayo Clinic"
+    },
+    "media": { "image": null, "video": null },
+    "sources": [
+      {
+        "name": "Mayo Clinic – Chronic Stress Symptoms and Causes",
+        "link": "https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037",
+        "author": null,
+        "platform": "Website",
+        "language": "en",
+        "source_type": "primary",
+        "credibility_score": 10
+      }
+    ],
+    "created_at": "2025-01-01T00:00:00Z",
+    "language": ["ar", "en"]
+  },
+  {
+    "id": "article-002",
+    "type": "article",
+    "title": {
+      "ar": "الفعالية العلاجية لـ CBT الرقمي للاكتئاب – مراجعة منهجية",
+      "en": "Effectiveness of Web-Based CBT for Depression – A Systematic Review"
+    },
+    "description": {
+      "ar": "مراجعة منهجية محكّمة نُشرت في مجلة Cureus تُقيّم فعالية برامج العلاج المعرفي السلوكي الرقمية لعلاج الاكتئاب في التجارب العشوائية المضبوطة.",
+      "en": "A peer-reviewed systematic review published in Cureus evaluating the effectiveness of web-based CBT programs for depression in randomized controlled trials."
+    },
+    "category": "depression",
+    "difficulty": "advanced",
+    "tags": ["CBT", "digital-mental-health", "depression", "research", "الاكتئاب"],
+    "estimated_time": 25,
+    "target_audience": {
+      "ar": "الباحثون والمهتمون بالأدلة العلمية حول فعالية العلاج الرقمي النفسي",
+      "en": "Researchers and those interested in scientific evidence on the effectiveness of digital mental health therapy"
+    },
+    "expected_outcome": {
+      "ar": "فهم متعمق لأدلة فعالية العلاج المعرفي السلوكي الرقمي في علاج الاكتئاب",
+      "en": "In-depth understanding of evidence for digital CBT effectiveness in treating depression"
+    },
+    "content_data": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39655249/",
+      "reading_time_minutes": 25,
+      "platform": "PubMed"
+    },
+    "media": { "image": null, "video": null },
+    "sources": [
+      {
+        "name": "Effectiveness of Web-Based CBT for Depression – Alzilfi et al. 2024",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/39655249/",
+        "author": "Alzilfi YA, AlMalki RA, AlMuntashiri AH, AlMathami JA",
+        "platform": "PubMed",
+        "language": "en",
+        "source_type": "primary",
+        "credibility_score": 10
+      }
+    ],
+    "created_at": "2025-01-01T00:00:00Z",
+    "language": ["ar", "en"]
+  },
+  {
+    "id": "article-003",
+    "type": "article",
+    "title": {
+      "ar": "الصحة النفسية للشباب العربي في ظل ضغوط العصر الرقمي",
+      "en": "Mental Health of Arab Youth Under the Pressures of the Digital Age"
+    },
+    "description": {
+      "ar": "مقال من منظمة الصحة العالمية يتناول تزايد معدلات القلق والاكتئاب في منطقة الشرق الأوسط وشمال أفريقيا، مع توصيات للدعم الوقائي.",
+      "en": "An article from the World Health Organization addressing the increasing rates of anxiety and depression in the MENA region, with recommendations for preventive support."
+    },
+    "category": "stress",
+    "difficulty": "beginner",
+    "tags": ["Arab-youth", "digital-age", "MENA", "WHO", "الصحة النفسية العربية"],
+    "estimated_time": 10,
+    "target_audience": {
+      "ar": "الشباب العربي والمهتمون بالصحة النفسية في منطقة MENA",
+      "en": "Arab youth and those interested in mental health in the MENA region"
+    },
+    "expected_outcome": {
+      "ar": "إدراك السياق الإقليمي للصحة النفسية وتبني أساليب وقاية مناسبة",
+      "en": "Awareness of the regional mental health context and adoption of appropriate prevention methods"
+    },
+    "content_data": {
+      "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response",
+      "reading_time_minutes": 10,
+      "platform": "Organization"
+    },
+    "media": { "image": null, "video": null },
+    "sources": [
+      {
+        "name": "WHO – Mental Health Fact Sheet",
+        "link": "https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response",
+        "author": null,
+        "platform": "Organization",
+        "language": "en",
+        "source_type": "primary",
+        "credibility_score": 10
+      }
+    ],
+    "created_at": "2025-01-01T00:00:00Z",
+    "language": ["ar", "en"]
+  }
+]
